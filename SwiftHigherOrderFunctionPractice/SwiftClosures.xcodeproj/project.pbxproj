@@ -25,7 +25,7 @@
 
 /* Begin PBXFileReference section */
 		F6C733EE2639554400FCF719 /* DemoOnClosures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DemoOnClosures.swift; sourceTree = "<group>"; };
-		F6ED01BB2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftHigherOrderFunctionPractice; sourceTree = BUILT_PRODUCTS_DIR; };
+		F6ED01BB2620DE8B00E9ECEA /* SwiftClosures */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = SwiftClosures; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6ED01BE2620DE8B00E9ECEA /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -43,7 +43,7 @@
 		F6ED01B22620DE8B00E9ECEA = {
 			isa = PBXGroup;
 			children = (
-				F6ED01BD2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */,
+				F6ED01BD2620DE8B00E9ECEA /* SwiftClosures */,
 				F6ED01BC2620DE8B00E9ECEA /* Products */,
 			);
 			sourceTree = "<group>";
@@ -51,26 +51,26 @@
 		F6ED01BC2620DE8B00E9ECEA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				F6ED01BB2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */,
+				F6ED01BB2620DE8B00E9ECEA /* SwiftClosures */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		F6ED01BD2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */ = {
+		F6ED01BD2620DE8B00E9ECEA /* SwiftClosures */ = {
 			isa = PBXGroup;
 			children = (
 				F6ED01BE2620DE8B00E9ECEA /* main.swift */,
 				F6C733EE2639554400FCF719 /* DemoOnClosures.swift */,
 			);
-			path = SwiftHigherOrderFunctionPractice;
+			path = SwiftClosures;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		F6ED01BA2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */ = {
+		F6ED01BA2620DE8B00E9ECEA /* SwiftClosures */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = F6ED01C22620DE8B00E9ECEA /* Build configuration list for PBXNativeTarget "SwiftHigherOrderFunctionPractice" */;
+			buildConfigurationList = F6ED01C22620DE8B00E9ECEA /* Build configuration list for PBXNativeTarget "SwiftClosures" */;
 			buildPhases = (
 				F6ED01B72620DE8B00E9ECEA /* Sources */,
 				F6ED01B82620DE8B00E9ECEA /* Frameworks */,
@@ -80,9 +80,9 @@
 			);
 			dependencies = (
 			);
-			name = SwiftHigherOrderFunctionPractice;
+			name = SwiftClosures;
 			productName = SwiftHigherOrderFunctionPractice;
-			productReference = F6ED01BB2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */;
+			productReference = F6ED01BB2620DE8B00E9ECEA /* SwiftClosures */;
 			productType = "com.apple.product-type.tool";
 		};
 /* End PBXNativeTarget section */
@@ -100,7 +100,7 @@
 					};
 				};
 			};
-			buildConfigurationList = F6ED01B62620DE8B00E9ECEA /* Build configuration list for PBXProject "SwiftHigherOrderFunctionPractice" */;
+			buildConfigurationList = F6ED01B62620DE8B00E9ECEA /* Build configuration list for PBXProject "SwiftClosures" */;
 			compatibilityVersion = "Xcode 9.3";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -113,7 +113,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				F6ED01BA2620DE8B00E9ECEA /* SwiftHigherOrderFunctionPractice */,
+				F6ED01BA2620DE8B00E9ECEA /* SwiftClosures */,
 			);
 		};
 /* End PBXProject section */
@@ -265,7 +265,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		F6ED01B62620DE8B00E9ECEA /* Build configuration list for PBXProject "SwiftHigherOrderFunctionPractice" */ = {
+		F6ED01B62620DE8B00E9ECEA /* Build configuration list for PBXProject "SwiftClosures" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F6ED01C02620DE8B00E9ECEA /* Debug */,
@@ -274,7 +274,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		F6ED01C22620DE8B00E9ECEA /* Build configuration list for PBXNativeTarget "SwiftHigherOrderFunctionPractice" */ = {
+		F6ED01C22620DE8B00E9ECEA /* Build configuration list for PBXNativeTarget "SwiftClosures" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				F6ED01C32620DE8B00E9ECEA /* Debug */,
